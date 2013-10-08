@@ -1,0 +1,1 @@
+C:\Projects\FileCrawler\FileCrawler\bin\Debug\FileCrawler.exe.config
